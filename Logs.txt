@@ -1,0 +1,24 @@
+shailendra@haleytek-PC21YL0E:~/shailendra/development/workspace/android_studio/EngineeringMenu$ adb logcat | grep -E 'MyService|engineering_menu'
+06-25 22:43:26.925 22516 22516 D engineering_menu: [App] [java] bindService
+06-25 22:43:26.927   783  6420 I /vendor/bin/hw/vendor.qti.hardware.servicetracker@1.1-service: bindService is called for service : com.scania.ndkbinderservice/.MyService and for client com.scania.javabinderclient
+06-25 22:43:26.927   783  6420 I /vendor/bin/hw/vendor.qti.hardware.servicetracker@1.1-service: total connections for service : com.scania.ndkbinderservice/.MyServiceare :1
+06-25 22:43:26.929   783  6420 I /vendor/bin/hw/vendor.qti.hardware.servicetracker@1.1-service: startService() is called for servicecom.scania.ndkbinderservice/.MyService
+06-25 22:43:26.934 21802 21802 D engineering_menu: [MyService] [java] Binder is ready
+06-25 22:43:26.934 21802 21802 D engineering_menu: [MyService] [java] A client binds the service
+06-25 22:43:26.951 22516 22516 D engineering_menu: [App] [java] onServiceConnected
+06-25 22:43:31.710 22516 22516 D engineering_menu: PACKAGE_PHONE is checked: isCheckedtrue
+06-25 22:43:32.127 22516 22516 D engineering_menu: PACKAGE_PHONE is checked: isCheckedtrue
+06-25 22:43:35.172 22516 22516 D engineering_menu: [App] [java] IMyService.setEnable
+06-25 22:43:35.173 21802 21821 D ndkbinderscanias: [MyService] [cpp] setEnable: packageName=com.android.radio, isEnable=0 
+06-25 22:43:35.173 22516 22516 D engineering_menu: [App] [java] IMyService.setEnable
+06-25 22:43:35.173 21802 21821 D ndkbinderscanias: [MyService] [cpp] setEnable: packageName=com.android.phone, isEnable=0 
+06-25 22:43:43.812 22516 22516 D engineering_menu: [App] [java] IMyService.removePermission
+06-25 22:43:43.813 21802 21821 D ndkbinderscanias: [MyService] [cpp] removePermission: packageName=com.android.radio, permission=location 
+06-25 22:43:43.814 22516 22516 D engineering_menu: [App] [java] IMyService.removePermission
+06-25 22:43:43.814 21802 21821 D ndkbinderscanias: [MyService] [cpp] removePermission: packageName=com.android.phone, permission=location 
+06-25 22:43:53.563 22516 22516 D engineering_menu: [App] [java] IMyService.setConfig
+06-25 22:43:53.564 21802 21821 D ndkbinderscanias: [MyService] [cpp] setConfig: packageName=com.android.radio, config=audio 
+06-25 22:43:53.564 22516 22516 D engineering_menu: [App] [java] IMyService.setConfig
+06-25 22:43:53.564 21802 21821 D ndkbinderscanias: [MyService] [cpp] setConfig: packageName=com.android.phone, config=audio 
+
+

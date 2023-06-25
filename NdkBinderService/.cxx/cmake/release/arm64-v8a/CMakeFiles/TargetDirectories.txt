@@ -1,0 +1,3 @@
+/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-lib.dir

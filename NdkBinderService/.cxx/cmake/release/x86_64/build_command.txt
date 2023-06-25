@@ -1,0 +1,24 @@
+                Executable : /home/shaliendra/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/src/main/cpp
+-DCMAKE_CXX_FLAGS=-std=c++17
+-DCMAKE_FIND_ROOT_PATH=/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/release/prefab/x86_64/prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=/home/shaliendra/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=/home/shaliendra/Android/Sdk/ndk/21.1.6352462
+-DANDROID_PLATFORM=android-29
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=/home/shaliendra/Android/Sdk/ndk/21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/release/obj/x86_64
+-DCMAKE_MAKE_PROGRAM=/home/shaliendra/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=29
+-Daidl_src_dir=/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl
+-Dcommon_inc_dir=/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/includes
+-B/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/release/x86_64
+-GNinja
+jvmArgs : 
+
+Build command args:

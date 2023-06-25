@@ -1,0 +1,26 @@
+# ninja log v5
+0	524	1687724368	CMakeFiles/native-lib.dir/MyService.cpp.o	aa76634ed71014b5
+0	528	1687724368	CMakeFiles/native-lib.dir/native-lib.cpp.o	8141c0da8cb140fa
+0	632	1687724368	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	eeaf266777b936d0
+632	661	1687724368	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	19857067e5557490
+1	519	1687724523	CMakeFiles/native-lib.dir/native-lib.cpp.o	8141c0da8cb140fa
+1	534	1687724523	CMakeFiles/native-lib.dir/MyService.cpp.o	aa76634ed71014b5
+1	628	1687724523	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	eeaf266777b936d0
+628	657	1687724523	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	19857067e5557490
+0	2	0	clean	eef9f423b4394b55
+0	713	1687725084	CMakeFiles/native-lib.dir/MyService.cpp.o	aa76634ed71014b5
+0	768	1687725084	CMakeFiles/native-lib.dir/native-lib.cpp.o	8141c0da8cb140fa
+1	873	1687725084	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	eeaf266777b936d0
+873	908	1687725084	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	19857067e5557490
+0	584	1687725519	CMakeFiles/native-lib.dir/MyService.cpp.o	aa76634ed71014b5
+0	635	1687725519	CMakeFiles/native-lib.dir/native-lib.cpp.o	8141c0da8cb140fa
+1	693	1687725519	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	eeaf266777b936d0
+693	722	1687725519	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	19857067e5557490
+0	587	1687725615	CMakeFiles/native-lib.dir/native-lib.cpp.o	8141c0da8cb140fa
+0	612	1687725615	CMakeFiles/native-lib.dir/MyService.cpp.o	aa76634ed71014b5
+0	639	1687725615	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	eeaf266777b936d0
+639	668	1687725615	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	19857067e5557490
+0	523	1687727136	CMakeFiles/native-lib.dir/native-lib.cpp.o	8141c0da8cb140fa
+0	534	1687727136	CMakeFiles/native-lib.dir/MyService.cpp.o	aa76634ed71014b5
+0	625	1687727136	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	eeaf266777b936d0
+625	655	1687727136	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	19857067e5557490

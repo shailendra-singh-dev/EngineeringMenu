@@ -1,0 +1,5 @@
+# ninja log v5
+0	613	1687725091	CMakeFiles/native-lib.dir/MyService.cpp.o	bb627cebcddf3c36
+0	617	1687725091	CMakeFiles/native-lib.dir/native-lib.cpp.o	622b9d0d3760572a
+0	840	1687725091	CMakeFiles/native-lib.dir/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp.o	81b4cbb1165e7e41
+840	889	1687725091	/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	401d94be13003bd5

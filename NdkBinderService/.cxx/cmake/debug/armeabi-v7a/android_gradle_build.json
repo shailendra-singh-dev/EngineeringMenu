@@ -1,0 +1,53 @@
+{
+  "stringTable": {
+    "0": "/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi29 --gcc-toolchain=/home/shaliendra/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/shaliendra/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS -I/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/includes -I/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/src/main/cpp/includes -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++17 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/src/main/cpp/CMakeLists.txt",
+    "/home/shaliendra/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/shaliendra/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/shaliendra/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/shaliendra/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommand": "/home/shaliendra/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/debug/armeabi-v7a\" native-lib",
+      "buildType": "debug",
+      "toolchain": "158604046",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/src/main/cpp/MyService.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/Common/src/main/cpp/aidl/com/scania/IMyService.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "158604046": {
+      "cppCompilerExecutable": "/home/shaliendra/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

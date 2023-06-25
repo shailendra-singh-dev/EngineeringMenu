@@ -1,0 +1,7 @@
+Executable : /home/shaliendra/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/shaliendra/shailendra/development/workspace/android_studio/EngineeringMenu/NdkBinderService/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+
