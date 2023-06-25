@@ -1,4 +1,4 @@
-shailendra@haleytek-PC21YL0E:~/shailendra/development/workspace/android_studio/EngineeringMenu$ adb logcat | grep -E 'MyService|engineering_menu'
+adb logcat | grep -E 'MyService|engineering_menu'
 06-25 22:43:26.925 22516 22516 D engineering_menu: [App] [java] bindService
 06-25 22:43:26.927   783  6420 I /vendor/bin/hw/vendor.qti.hardware.servicetracker@1.1-service: bindService is called for service : com.scania.ndkbinderservice/.MyService and for client com.scania.javabinderclient
 06-25 22:43:26.927   783  6420 I /vendor/bin/hw/vendor.qti.hardware.servicetracker@1.1-service: total connections for service : com.scania.ndkbinderservice/.MyServiceare :1
